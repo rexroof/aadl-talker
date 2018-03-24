@@ -1,0 +1,14 @@
+{
+  "name": "aadl-talker",
+  "version": "0.0.5",
+  "main": "index.js",
+  "author": "rex roof",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.82.0",
+    "cheerio": "^1.0.0-rc.2",
+    "cheerio-tableparser": "^1.0.1",
+    "cloud-functions-runtime-config": "^0.1.1",
+    "request": "^2.81.0"
+  }
+}
